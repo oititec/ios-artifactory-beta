@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.swift_version    = '5.0'
   s.vendored_frameworks = 'Framework/Output/OILiveness2D.xcframework'
 
-  s.dependency 'OICommons', '~> 1.1.0'
+  s.dependency 'OICommons', '~> 1.1.1'
   s.dependency 'OINetwork', '~> 1.2.1'
   s.dependency 'OIComponents', '~> 1.2.1'
 end
