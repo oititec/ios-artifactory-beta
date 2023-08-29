@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '11.0'
   s.source       = { :git => 'https://github.com/oititec/ios-security.git', :tag => s.version.to_s }
   s.vendored_frameworks = 'Output/OISecurity.xcframework'
-  s.static_framework = true
 
   s.dependency 'OINetwork'
   s.dependency 'FirebaseCore'
