@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.dependency 'OICommons', '~> 1.1'
   s.dependency 'OINetwork', '~> 1.2'
   s.dependency 'OIComponents', '~> 1.3'
-  s.dependency 'OISecurity', '~> 1.5'
+  s.dependency 'OISecurity', '~> 2.0'
 end
