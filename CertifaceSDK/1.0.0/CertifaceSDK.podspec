@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
     'Output/OitiCore.xcframework'
   ]
   
-  s.dependency 'OILiveness3D_FT', '9.7.30'
+  s.dependency 'OILiveness3D_FT', '9.7.36'
   s.dependency 'Sentry', '~> 8.36'
 end
