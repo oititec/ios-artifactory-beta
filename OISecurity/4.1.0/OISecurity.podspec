@@ -19,5 +19,4 @@ Pod::Spec.new do |s|
   end
 
   s.dependency 'OINetwork', '~> 2.1.1'
-  s.dependency 'OitiSentry', '8.36'
 end
