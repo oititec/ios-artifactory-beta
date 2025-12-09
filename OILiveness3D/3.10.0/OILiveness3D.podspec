@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.dependency 'OINetwork', '~> 2.1.2'
   s.dependency 'OIComponents', '1.8.0'
   s.dependency 'OISecurity', '~> 4.2'
-  s.dependency 'OILiveness3D_FT', '9.7.95'
+  s.dependency 'OILiveness3D_FT', '9.7.96'
 end
